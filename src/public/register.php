@@ -12,8 +12,8 @@
     
     require('../mailchimp/src/Mailchimp.php');
     
-    $MAILCHIMP_API_KEY = '8f2dc24c288d6738bc76fb141a7c1673-us6'; // Sua chave da API
-    $MAILCHIMP_LIST_ID = 'e06bfd9744'; // O ID da sua lista
+    $MAILCHIMP_API_KEY = getenv('MAILCHIMP_API_KEY'); // Sua chave da API
+    $MAILCHIMP_LIST_ID = getenv('MAILCHIMP_LIST_ID'); // O ID da sua lista
 
     $form = $_POST;
     
@@ -21,7 +21,7 @@
     {
         try 
         {   
-            $mailchimp = new Mailchimp($MAILCHIMP_API_KEY, [ 'debug' => true]);            
+            $mailchimp = new Mailchimp($MAILCHIMP_API_KEY);            
             $lists     = new Mailchimp_Lists($mailchimp);
                            
             $email = [

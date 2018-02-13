@@ -1,6 +1,10 @@
 runtime: php55
 api_version: 1
 
+env_variables:
+  MAILCHIMP_API_KEY: 'YOUR_API_KEY'
+  MAILCHIMP_LIST_ID: 'YOUR_LIST_ID'
+
 handlers:
 - url: /static
   static_dir: static

@@ -1,0 +1,12 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /static
+  static_dir: static
+
+- url: /register
+  script: src/public/register.php
+
+- url: /.*
+  script: src/public/index.php

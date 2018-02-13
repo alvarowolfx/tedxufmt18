@@ -61,6 +61,9 @@
                                 </ul>
                             </div>
                         </div>
+
+                        <div class="clearfix visible-md-block visible-lg-block"></div>
+
                         <div class="col-md-4 text-center to-animate">
                             <div class="person">
                                 <img src="/static/images/team/lucasa.jpg" class="img-responsive img-rounded" alt="Person">
@@ -114,6 +117,9 @@
                                 </ul>
                             </div>
                         </div>
+
+                        <div class="clearfix visible-md-block visible-lg-block"></div>
+                        
                         <div class="col-md-4 text-center to-animate">
                             <div class="person">
                                 <img src="/static/images/team/carlos.jpg" class="img-responsive img-rounded" alt="Person">

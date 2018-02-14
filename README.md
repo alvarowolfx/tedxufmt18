@@ -2,9 +2,22 @@
 
 Oficial landing page for the TEDxUFMT 2018 event. More info will be added soon.
 
+### Run locally
+
+* Install Google App Engine SDK
+* Just run the command:
+
+```
+dev_appserver.py app.yaml
+```
+
 ### Deploy on Google App Engine PHP Standard
 
-* gcloud app deploy
+* Run the command:
+
+```
+gcloud app deploy
+```
 
 ### Mailchimp configuration
 

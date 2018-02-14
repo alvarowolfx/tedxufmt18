@@ -8,11 +8,11 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>TEDxUFTM</title>
+	<title>TEDxUFMT</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="TEDxUFTM"/>
-	<meta name="keywords" content="tedx, tedxuftm, ted, metamorfose, uberaba, transforma, disruptivo" />
-	<meta name="author" content="TEDxUFTM" />
+	<meta name="description" content="TEDxUFMT"/>
+	<meta name="keywords" content="tedx, tedxufmt, ted, catalises, cuiaba, transforma, disruptivo" />
+	<meta name="author" content="TEDxUFMT" />
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -43,20 +43,7 @@
 	<link rel="stylesheet" href="/static/css/bootstrap.css">
 
 	<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico">
-
-	<!-- 
-	Default Theme Style 
-	You can change the style.css (default color purple) to one of these styles
 	
-	1. pink.css
-	2. blue.css
-	3. turquoise.css
-	4. orange.css
-	5. lightblue.css
-	6. brown.css
-	7. green.css
-
-	-->
 	<link rel="stylesheet" href="/static/css/style.css">
 
 	<!-- Styleswitcher ( This style is for demo purposes only, you may delete this anytime. ) -->
@@ -182,24 +169,7 @@
 
 	</head>
 	<body>
-
-		<div class="modal fade" tabindex="-1" role="dialog">
-			<div class="modal-dialog" role="document">
-				<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-					<h4 class="modal-title">Modal title</h4>
-				</div>
-				<div class="modal-body">
-					<p>One fine body&hellip;</p>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
-				</div>
-				</div><!-- /.modal-content -->
-			</div><!-- /.modal-dialog -->
-		</div><!-- /.modal -->
+		
 	<?php
 		include("head.php");
 	?>
@@ -242,25 +212,7 @@
 	
 	<?php
 		include("footer.php");
-	?>
-	
-	<!-- For demo purposes Only ( You may delete this anytime :-) -->
-	<!-- <div id="colour-variations">
-		<a class="option-toggle"><i class="icon-gear"></i></a>
-		<h3>Preset Colors</h3>
-		<ul>
-			<li><a href="javascript: void(0);" data-theme="style"></a></li>
-			<li><a href="javascript: void(0);" data-theme="pink"></a></li>
-			<li><a href="javascript: void(0);" data-theme="blue"></a></li>
-			<li><a href="javascript: void(0);" data-theme="turquoise"></a></li>
-			<li><a href="javascript: void(0);" data-theme="orange"></a></li>
-			<li><a href="javascript: void(0);" data-theme="lightblue"></a></li>
-			<li><a href="javascript: void(0);" data-theme="brown"></a></li>
-			<li><a href="javascript: void(0);" data-theme="green"></a></li>
-		</ul>
-	</div> -->
-	<!-- End demo purposes only -->
-
+	?>		
 	
 	<!-- jQuery -->
 	<script src="/static/js/jquery.min.js"></script>

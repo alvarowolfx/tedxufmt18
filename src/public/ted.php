@@ -6,13 +6,13 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 to-animate">
                         <h3 style="text-align:center;font-size: 20px;">
-                            TED é uma organização sem fins lucrativos dedicada à divulgação de idéias, geralmente sob a forma de conversas curtas e poderosas.
+                            TED (acrônimo de Tecnologia, Entretenimento, Design, em português) é uma organização sem fins lucrativos dedicada ao lema "Ideias que merecem ser espalhadas" (tradução livre para "Ideas Worth Spreading").
                         </h3>
                         <h3 style="text-align:center;font-size: 20px;">
-                            Em uma conferência TED, pensadores e realizadores de todo o mundo são convidados a dar a melhor palestra de suas vidas em 18 minutos ou menos.
+                            As conferências TED convidam os principais pensadores do mundo para darem o melhor de si através de palestras poderosas, em 18 minutos. Estas palestras são depois disponibilizadas, gratuitamente, no TED.com.
                         </h3>
-                        <h3 style="text-align:center;font-size: 20px;">
-                            Michelle Obama, Bill Gates, Bono (U2), Sergey Brin, Jout Jout Prazer, Elon Musk e Bel Pesce já passaram pelo palco do TED.
+                        <h3 style="text-align:center;font-size: 18px;">
+                        O TED já teve oradores como Bill Gates (fundador da Microsoft), Elizabeth Gilbert (escritora do best-seller “Comer, Rezar, Amar”), Sheryl Sandberg (COO do Facebook), Arianna Huffington (co-fundadora do site de notícias mais poderoso do mundo segundo a revista The Observer, o The Huffington Post), Gordon Brown (primeiro-ministro britânico entre 2007 e 2010), Al Gore (45º vice-presidente americano), Larry Page e Sergey Brin (fundadores do Google), dentre outros.
                         </h3>
                     </div>
                 </div>
@@ -23,10 +23,11 @@
             <div class="col-md-4 to-animate">
                 <h2>TEDx</h2>
                 <p>
-                    O TEDx é um evento independente e licenciado pelo TED, que traz pensadores e fazedores globais 
-                    para compartilhar suas ideias, independente da sua área de atuação. A expectativa de um TEDx é 
-                    que ele se torne um fórum para ideias dentro da comunidade em que é organizado, para inspirar 
-                    pessoas a mudarem suas vidas, sua comunidade e o mundo.   
+                Visando expandir a sua abrangência e cumprir sua missão de ideias que merecem ser espalhadas,
+                 o TED projetou o TEDx, um programa de eventos locais, licenciado pela organização, 
+                 mas feito pela comunidade, que reúne pessoas para dividir uma experiência, 
+                 ao estilo TED. Graças ao TEDx, hoje já é possível alcançar mais de 50 milhões de pessoas, 
+                 em 150 países.
                 </p>   
                 <!-- <p><a href="#" class="btn btn-primary">Meet the team</a></p> -->
             </div>

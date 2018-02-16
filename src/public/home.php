@@ -10,9 +10,10 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 to-animate">
                         <h3 style="text-align:center;color:#929292;font-size: 20px;"> 
-                            O TEDxUFMT trará ao palco ideias que merecem ser compartilhadas. 
-                            O tema escolhido para essa edição é <b>Catálises</b>. 
-                            Será diferente de tudo que você já viu.
+                            O  TEDxUFMT será o primeiro em Mato Grosso e 
+                            trará ao palco ideias que merecem ser compartilhadas, 
+                            com o tema <b>Catálises</b>, 
+                            porquê acreditamos no poder das pessoas de acelerar transformações.                             
                         </h3>
                         <br><br>
                         <p><a href="#" data-nav-section="inscricao" class="btn btn-primary btn-sm" style="font-size: 14px;background: #E62B1E;color: #fff;border: none !important;border: 12px solid transparent !important;">Inscrições</a></p>

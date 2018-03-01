@@ -75,19 +75,14 @@
                             <h4 style="font-size: 20px">APOIADORES VISIONÁRIOS</h4>
                         </div>
                         
-                        <div class="col-md-4 text-center to-animate fadeInUp animated">
+                        <div class="col-md-6 text-center to-animate fadeInUp animated">
                             <div>
                                 <img src="/static/images/apoiadores/ufmt.png" alt="UFMT" title="UFMT" style="max-height: 143px; max-width: 214px;">
                             </div>
                         </div>
-                        <div class="col-md-4 text-center to-animate fadeInUp animated">
+                        <div class="col-md-6 text-center to-animate fadeInUp animated">
                             <div>
                                 <img src="/static/images/apoiadores/gdgcuiaba.png" alt="GDG Cuiabá" title="GDG Cuiabá" style="margin-top:20px;max-height: 143px; max-width: 214px;">
-                            </div>
-                        </div>
-                        <div class="col-md-4 text-center to-animate fadeInUp animated">
-                            <div>
-                                <img src="/static/images/apoiadores/startupmt.png" alt="StartupMT" title="StartupMT" style="max-height: 143px; max-width: 214px;">
                             </div>
                         </div>
 

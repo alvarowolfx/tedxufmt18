@@ -156,6 +156,15 @@
 		text-decoration: none;
 		outline: none;
 	}
+	.card {
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		max-width: 270px;
+		margin: auto;
+		text-align: center;
+		padding-bottom: 1px;
+		border-radius: 6px;
+		height: 530px;
+	}
 	</style>
 	<!-- End demo purposes only -->
 
@@ -184,6 +193,10 @@
 
 	<?php
 		include("tedxufmt.php");
+	?>
+
+	<?php
+		include("speakers.php");
 	?>
 
 	<?php

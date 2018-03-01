@@ -15,6 +15,7 @@
                         <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
                         <li><a href="#" data-nav-section="about"><span>TED</span></a></li>
                         <li><a href="#" data-nav-section="tedx"><span>TEDxUFMT</span></a></li>
+                        <li><a href="#" data-nav-section="speakers"><span>Palestrantes</span></a></li> 
                         <li><a href="#" data-nav-section="team"><span>Organizadores</span></a></li> 
                         <!-- <li><a href="#" data-nav-section="blog"><span>Blog</span></a></li> --> 
                         <li><a href="#" data-nav-section="depoimentos"><span>Depoimentos</span></a></li>

@@ -15,7 +15,7 @@
                             <div class="row row-bottom-padded-lg">
                                 <div class="col-md-12 text-center to-animate fadeInUp animated">
                                     <div>
-                                        <img src="/static/images/ad.png" alt="Sua marca aqui" title="Sua marca aqui" style="max-height: 300px; max-width: 370px;">
+                                        <img src="/static/images/sponsors/sebrae.png" alt="Sebrae" title="Sua marca aqui" style="max-height: 300px; max-width: 370px;">
                                     </div>
                                 </div>
                             </div>
@@ -25,21 +25,27 @@
                         <div class="col-md-12 text-center" style="margin-bottom: 30px;">
                             <h4 style="font-size: 20px">PATROCINADORES OURO</h4>
                         </div>
-                        <div class="col-md-4 text-center to-animate fadeInUp animated">
+                        <div class="col-md-6 text-center to-animate fadeInUp animated">
                             <div>
                                 <img src="/static/images/ad.png" alt="Sabin Laboratório Clínico" title="Sabin Laboratório Clínico" style="max-height: 124px; max-width: 214px;">
                             </div>
                         </div>
-                        <div class="col-md-4 text-center to-animate fadeInUp animated">
+                        <div class="col-md-6 text-center to-animate fadeInUp animated">
                             <div>
                                 <img src="/static/images/ad.png" alt="Espaço Zen Uberaba" title="Espaço Zen Uberaba" style="max-height: 124px; max-width: 214px;">
                             </div>
-                        </div>
-                        <div class="col-md-4 text-center to-animate fadeInUp animated">
+                        </div>    
+
+                        <!-- ####################### PATROCINADORES PLATINUM ####################### -->
+                        <div class="col-md-12 text-center" style="margin-bottom: 30px;">
+                            <h4 style="font-size: 20px">PATROCINADORES PLATINUM</h4>
+                        </div>    
+
+                        <div class="col-md-12 text-center to-animate fadeInUp animated">
                             <div>
-                                <img src="/static/images/ad.png" alt="Sertanitos" title="Sertanitos" style="max-height: 124px; max-width: 214px;">
+                                <img src="/static/images/sponsors/kaordica.png" alt="Kaordica" title="Casa Di Giulietta" style="max-height: 132px; max-width: 214px;">
                             </div>
-                        </div>                       
+                        </div>    
 
                         <!-- ####################### PATROCINADORES PRATAS ####################### -->
                         <div class="col-md-12 text-center" style="margin-bottom: 50px;">
@@ -72,15 +78,21 @@
                         
                         <!-- ####################### APOIADORES VISIONÁRIOS ####################### -->
                         <div class="col-md-12 text-center" style="margin-bottom: 50px;">
-                            <h4 style="font-size: 20px">APOIADORES VISIONÁRIOS</h4>
+                            <h4 style="font-size: 20px">APOIADORES</h4>
                         </div>
                         
-                        <div class="col-md-6 text-center to-animate fadeInUp animated">
+                        <div class="col-md-4 text-center to-animate fadeInUp animated">
+                            <div>
+                                <img src="/static/images/apoiadores/eit.jpg" alt="UFMT" title="EIT UFMT" style="max-height: 143px; max-width: 214px;">
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 text-center to-animate fadeInUp animated">
                             <div>
                                 <img src="/static/images/apoiadores/ufmt.png" alt="UFMT" title="UFMT" style="max-height: 143px; max-width: 214px;">
                             </div>
                         </div>
-                        <div class="col-md-6 text-center to-animate fadeInUp animated">
+                        <div class="col-md-4 text-center to-animate fadeInUp animated">
                             <div>
                                 <img src="/static/images/apoiadores/gdgcuiaba.png" alt="GDG Cuiabá" title="GDG Cuiabá" style="margin-top:20px;max-height: 143px; max-width: 214px;">
                             </div>

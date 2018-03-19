@@ -163,7 +163,7 @@
 		text-align: center;
 		padding-bottom: 1px;
 		border-radius: 6px;
-		height: 530px;
+		height: 580px;
 	}
 	</style>
 	<!-- End demo purposes only -->

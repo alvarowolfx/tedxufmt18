@@ -1,7 +1,7 @@
 <?php
     $team = [
         [
-            name => "Lucas Bernadino",
+            name => "Lucas Bernardino",
             position => "Lead Organizer",
             img => "/static/images/team/lucasb.jpg",
             bio => "Estudante de Engenharia Florestal na UFMT, campus Cuiabá. Desenvolveu trabalhos em organizações como: AIESEC, CHOICE, Ensina Brasil e Fundação Estudar. Contribui para o ecossistema de empreendedorismo em Mato Grosso através de diversos eventos e ações, tendo organizado o Startup Weekend Cuiabá 2017.",
@@ -13,20 +13,24 @@
         ],
         [
             name => "Caroline Vaez",
-            position => "Infraestrutura",
+            position => "ÉTICA DO CUIDADO, CONEXÃO & INOVAÇÃO",
             img => "/static/images/team/carol.jpg",
-            bio => "",
+            bio => "Uma curiosa engenheira florestal, alumnus AIESEC em Cuiabá, que promove educação ambiental na prática, fomenta e empreende comunidade de startups do Mato Grosso participando, ajudando a organizar e divulgando eventos. Pois tem o propósito de vida de conectar pessoas e conhecimentos para transformar suas próprias vidas e melhorar o mundo.",
             links => [
-                linkedin => "https://www.linkedin.com/in/carolvaez/"
+                linkedin => "https://www.linkedin.com/in/carolvaez/",
+                facebook => "https://www.facebook.com/carolis.vaez",
+                instagram =>"https://www.instagram.com/carolis.vaez",
+                twitter => "https://twitter.com/carolis.vaez"
             ]
         ],
         [
             name => "Sânia Camargos",
             position => "Relacionamento",
             img => "/static/images/team/sania.jpg",
-            bio => "",
+            bio => "Graduação em agronomia pela UFLA; mestrado em Agronomia (Fitotecnia) pela UFLA; doutorado em Energia Nuclear na Agricultura pelo CENA/USP. Tem experiência na área de Solos, com ênfase em Fertilidade do solo e Nutrição de plantas. Faz parte da equipe que fez um aplicativo, Solum, que foi desenvolvido juntamente com a empresa Sydy e o engenheiro agrônomo Savio Henrique de Almeida Sardinha. O aplicativo serve para auxiliar na interpretação de análise de solo e na recomendação de calagem, fosfatagem e adubação de manutenção para as culturas de soja e milho.",
             links => [
-                linkedin => "https://www.linkedin.com/in/sania-camargos-94537833/"
+                linkedin => "https://www.linkedin.com/in/sania-camargos-94537833/",
+                facebook => "https://www.facebook.com/sania.camargos"
             ]
         ],
         [
@@ -77,10 +81,18 @@
             name => "Carlos Wolff",
             position => "Comercial/Parcerias",
             img => "/static/images/team/carlos.jpg",
-            bio => "",
+            bio => "Engenheiro Civil, especialista em Administração de Marketing (FAAP/1996), e Docência Superior (Unirondon/2009).  Atuação por 13 anos como consultor credenciado do Sebrae nas áreas de marketing,  estratégia, inovação e sustentabilidade, e por mais de 30 anos como executivo em empresas (Aquario S.A., Tigre S.A., Banco do Brasil, Sicredi), professor universitário.  Atualmente é agente do Programa Inovativa Brasil em Mato Grosso e coordena a área de empreendedorismo e inovação do Parque Tecnológico Mato Grosso.",
             links => [                    
-                linkedin => "https://www.linkedin.com/in/carlos-alberto-wolff-b768118/"
+                linkedin => "https://www.linkedin.com/in/carlos-alberto-wolff-b768118/",
+                facebook => "https://www.facebook.com/carlos.wolff"
             ]
+        ],
+        [
+            name => "Yuri Chaya Piraccini",
+            position => "Parcerias",
+            img => "/static/images/team/yuri.png",
+            bio => "Administrador Público pela Universidade Estadual de Santa Catarina (UDESC) estagiou nos Correios, Justiça Federal, Tribunal Regional Eleitoral, Conselho Regional de Psicologia e Intelbras. Participou do movimento empresa Júnior, sendo assessor e diretor de Recursos Humanos na empresa Jr da faculdade. Fez intercâmbio acadêmico na Itália, nas universidades de Bologna e Ferrara. Mudou-se para Cuiabá para ser professor de História em escola pública de contexto vulnerável, participando da primeira turma do programa de desenvolvimento de lideranças educacionais da ONG Ensina Brasil. Nos últimos dois anos, atuou na Conferência da Juventude pelos Direitos Humanos, atuando em prol da educação como caminho para transformar a sociedade.",
+            links => []
         ]
     ];
     $index = 0;

@@ -11,34 +11,58 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="box-testimony to-animate">
                     <blockquote>
                         <span class="quote"><span><i class="icon-quote-left"></i></span></span>
-                        <p>&ldquo;Participar do TEDxUFU foi viver de perto uma experiência que sempre tive vontade. Desde que entrei no mundo da inovação e empreendedorismo, os TEDs eram sempre recomendados. Então ver isso de perto foi algo que marcou minha vida e carreira, lembro até hoje de entrar no auditório e sentir a energia boa que ia sair daquele dia. É algo que vale realmente a pena e que dá vontade de repetir!&rdquo;</p>
+                        <p>&ldquo;
+                        Participei do TEDx Universidade de Brasília em 2014. Nesse TEDx eu aprendi sobre gente muito boa da minha universidade que eu nunca tinha ouvido falar. Sigo referências dessa época até hoje. Tanto de palestrante quanto de participantes que conheci. Foi uma experiência muito enriquecedora. 
+                        &rdquo;</p>
                     </blockquote>
-                    <p class="author">Jeniffer, Founder da ampyou <!-- <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> --> <span class="subtext">TEDx UFU</span></p>
+                    <p class="author">Kelvin Saegussa, estudante.
+                        <span class="subtext">TEDx Universidade de Brasília</span>
+                    </p>
                 </div>
                 
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="box-testimony to-animate">
                     <blockquote>
                         <span class="quote"><span><i class="icon-quote-left"></i></span></span>
-                        <p>&ldquo;Participar de um TEDx foi como escolher se perder em um mundo com toda a segurança de se encontrar como alguém melhor no final.&rdquo;</p>
+                        <p>&ldquo;
+                        Participei como ouvinte e staff do TEDxUFRJ 2016 e foi uma experiência muito engrandecedora. O impacto de cada talk era perceptível não só comigo mas com todos, isso criava um clima sensacional de catarse acontecendo. O TEDx tem um potencial de transformação na vida de cada um e na universidade que é impossível de descrever. Fiquei tão apaixonado pelo evento que estou organizando o próximo TEDxUFRJ que irá acontecer em 2018!
+                        &rdquo;</p>
                     </blockquote>
-                    <p class="author">Mário, Engenheiro <!-- <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> --> <span class="subtext">TEDx São Paulo</span></p>
+                    <p class="author">Matheus Leite, Presidente da Enactus UFRJ
+                        <span class="subtext">TEDxUFRJ 2016</span>
+                    </p>
                 </div>
                 
                 
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="box-testimony to-animate">
                     <blockquote>
                         <span class="quote"><span><i class="icon-quote-left"></i></span></span>
-                        <p>&ldquo;A experiência de ter comparecido a um evento como o TEDxSP é algo incomparável, ainda mais quando se sai de lá com a certeza de que tudo que foi dito e apresentado lá não mudou apenas a sua vida, mas sim a de todos presentes lá.&rdquo;</p>
+                        <p>&ldquo;
+                        Participei do TEDx Universidade de Brasília em 2014 e a experiência mudou a minha vida. Nele percebi que precisava dar um retorno para a comunidade e que eu tinha varias possibilidades para fazer isso. Foi incrível e gostaria que todos pudessem vivenciar esse sentimento de transformação, assim como conhecer pessoas que se unem por um propósito maior.
+                        &rdquo;</p>
                     </blockquote>
-                    <p class="author">Raul, Empresário <!-- <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> --> <span class="subtext">TEDx São Paulo</span></p>
+                    <p class="author">Isabella Bottino, Analista de Marketing
+                    <span class="subtext">TEDx Universidade de Brasilia.</span></p>
+                </div>
+                
+            </div>
+            <div class="col-md-3">
+                <div class="box-testimony to-animate">
+                    <blockquote>
+                        <span class="quote"><span><i class="icon-quote-left"></i></span></span>
+                        <p>&ldquo;
+                        Fui organizador licenciado de 2 edições do TEDxUFV e participei como ouvinte de outros 3 encontros. Foi e continua sendo uma experiência de mudança na percepção dos espaços através das pessoas que os ocupam, ampliando a visão de abundância e de talentos nas comunidades por onde o tedx passa. Desejo sucesso o TEDxUFMT e contem comigo! 
+                        &rdquo;</p>
+                    </blockquote>
+                    <p class="author">Danilo Fulgêncio - trainee do Vetor Brasil na Secretaria de Educação
+                    <span class="subtext">Juventude e Esportes do Tocantins.</span></p>
                 </div>
                 
             </div>

@@ -5,21 +5,20 @@
                 <h2 class="single-animate animate-pricing-1">Inscrições</h2>
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 subtext single-animate animate-pricing-2">
-                        <h3 style="color:#000;">As inscrições para o TEDxUFMT ainda não foram iniciadas =( </h3>
+                        <h3 style="color:#000;">As inscrições para o TEDxUFMT foram iniciadas! </h3>
                         <p>
-                            Para saber tudo sobre o evento e ser avisado quando as 
-                            inscrições forem iniciadas, deixe seu e-mail aqui.
-                        </p>
-                    </div>
-                    <div class="caixasubscricao">
-                        <div class="col-md-12 text-center">
-                            <form id="inscricaoForm" action="/register" method="POST" >    
-                                <input type="text" style="width:500px" name="email" id="email" value="Digite aqui seu melhor e-mail" onclick="this.value='';"/>
-                                <input type="submit" class="solid" value="Enviar"/>
-                            </form>
+                            ➡ Essa inscrição não garante a sua participação no TEDxUFMT, ela é o primeiro passo para construirmos uma plateia alinhada ao tema do evento "Catálises".
                             <br/>
-                            <span id="msgInscricao"></span>
-                        </div>    
+                            ➡ Leia atentamente a descrição do formulário, que contém informações e orientações.
+                            <br/>
+                            ➡ Esta etapa vai até o dia 26/03. Não deixe para a última hora ⏳
+                            <br/>
+                            ➡ Serão selecionadas apenas 100 pessoas, então capricha no formulário que ele será nosso critério de seleção!! Qualquer dúvida falem conosco!
+                        </p>
+                        <br/>
+                        <a href="http://bit.ly/2HQH5C0" target="_blank" class="btn btn-primary btn-sm" style="font-size: 14px;background: #E62B1E;color: #fff;border: none !important;border: 12px solid transparent !important;">
+                            Quero participar!
+                        </a>                            
                     </div>
                 </div>
             </div>

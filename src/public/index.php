@@ -15,11 +15,11 @@
 	<meta name="author" content="TEDxUFMT" />
 
   <!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
+	<meta property="og:title" content="TEDxUFMT"/>
 	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
+	<meta property="og:url" content="https://tedxufmt.com.br"/>
+	<meta property="og:site_name" content="TEDxUFMT"/>
+	<meta property="og:description" content="TEDx em Cuiabá"/>
 	<meta name="twitter:title" content="" />
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />

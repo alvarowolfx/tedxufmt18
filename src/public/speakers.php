@@ -25,7 +25,7 @@
         [
             name => "Ciranda de Morais",
             img => "/static/images/speakers/ciranda.jpg",
-            bio => "Fundadora do She'sTech, construtora de comunidades, um agente de inovação no Minas Digital, um programa do governo de Minas Gerais, co-organizer do Google Business Group BH, Ciranda tem um mestrado em a master's degree in Social Policy and Strategic Direction for Sustainable Territory Development from the University of Bologna, Italy. She graduated in Advertising and Public Relations from PUC / MG and has 6 years of entrepreneurial experience in the retail and services sector as well as over 5 years of experience in European countries and internships in NGOs such as Ucodep / Oxfam and Auser."
+            bio => "Fundadora da She'sTech, Community Builder, Agente de Inovação para Minas Digital, Programa do Governo de Minas Gerais, co-organiz adora do Google Business Group BH. Possui mestrado em Política Social e Direção Estratégica para o Desenvolvimento Sustentável do Território da Universidade de Bolonha, Itália. Graduou-se em Publicidade e Relações Públicas pela PUC / MG e tem 6 anos de experiência empresarial no setor de varejo e serviços, além de mais de 5 anos de experiência em países europeus e estágios em ONGs como Ucodep / Oxfam e Auser."
         ],
         [
             name => "José Humberto",
@@ -89,11 +89,11 @@
             Para ele, a empatia é o caminho para tornarmos o mundo mais humano
             e evoluirmos como sociedade."
         ],
-        /*[
+        [
             name => "Carolina Joana",
-            img => "/static/images/speakers/carolina.jpg",
-            bio => ""
-        ],*/ 
+            img => "/static/images/speakers/carolina.png",
+            bio => "Educadora, bióloga, ecóloga, nasceu ribeirinha e pantaneira, sendo ensinada desde cedo a viver no ritmo das águas do Pantanal. É a 1ª doutora em ecologia de Mato Grosso,  participou da preparação da Eco-92,  posteriormente na organização da Coalizão Rios Vivos e no  Tribunal do genocídio dos povos da Amazônia, em Paris. É uma das maiores referências científicas sobre o Pantanal no mundo. Para ela, toda sua trajetória e trabalhos foram em prol da sensibilização e a transformação de pessoas, ideias e mentes para a sustentabilidade do e no Pantanal."
+        ],
         [
             name => "João Lucas Neves",
             img => "/static/images/speakers/joao.png",
